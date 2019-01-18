@@ -19,6 +19,8 @@ function BoardMember(name, homeState, training){
     return "You will see great things from Scuber."
   }
   
-  this.
+  this.sayHi = function() {
+    return ""
+  }
   
 }
