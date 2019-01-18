@@ -1,5 +1,5 @@
-function BoardMember(name, homeState, training){
+function BoardMember(name, training, homeState){
   this.name = name
-  this.homeState = homeState
   this.training = training
+  this.homeState = homeState
 }
