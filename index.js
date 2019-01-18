@@ -14,4 +14,10 @@ function BoardMember(name, homeState, training){
   this.doCharity = function() {
     return "I like to help people."
   }
+  
+  this.releasePressRelease = funtion() {
+    return "You will see great things from Scuber."
+  }
+  
+  
 }
