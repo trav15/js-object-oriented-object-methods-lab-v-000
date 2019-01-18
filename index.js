@@ -15,7 +15,7 @@ function BoardMember(name, homeState, training){
     return "I like to help people."
   }
   
-  this.releasePressRelease = funtion() {
+  this.releasePressRelease = function() {
     return "You will see great things from Scuber."
   }
   
